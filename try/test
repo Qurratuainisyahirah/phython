@@ -1,0 +1,3 @@
+A development container is a running container with a well-defined tool/runtime stack and its prerequisites. You can try out development containers with GitHub Codespaces or Visual Studio Code Dev Containers.
+
+This is a sample project that lets you try out either option in a few easy steps. We have a variety of other vscode-remote-try-* sample projects, too.
